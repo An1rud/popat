@@ -30,13 +30,13 @@ pip install popat
 ### Option 2: From Source
 ```bash
 # Clone and build from source
-git clone https://github.com/your-repo/popat
+git clone https://github.com/An1rud/popat.git
 cd popat
 cargo build --release
 ```
 
 ### Option 3: Direct Binary
-Download pre-built binaries from [GitHub Releases](https://github.com/your-repo/popat/releases)
+Download pre-built binaries from [GitHub Releases](https://github.com/An1rud/popat/releases)
 
 ## Getting Started
 
